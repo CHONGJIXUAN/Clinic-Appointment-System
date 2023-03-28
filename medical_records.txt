@@ -1,0 +1,6 @@
+Name,Age,Gender,Height,Weight,Blood Type
+John Smith,25,M,180.0,75.0,A+
+Jane Doe,30,F,165.0,60.0,B-
+
+ 
+
